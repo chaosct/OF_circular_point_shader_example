@@ -1,0 +1,11 @@
+*~
+
+*.cbp
+*.workspace
+*.layout
+*.sublime-project
+*.sublime-workspace
+config.make
+
+obj
+bin
